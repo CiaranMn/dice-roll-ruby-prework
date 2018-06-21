@@ -6,4 +6,4 @@ def roll
   1 + rand(6)
 end
 
-puts rand
+puts rand(0)
